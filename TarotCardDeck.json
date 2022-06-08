@@ -1,0 +1,158 @@
+[
+  {
+    "Name": "The Fool",
+    "Detail": "",
+    "Value": "0",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-fool-tarot-card.jpg"
+  },
+  {
+    "Name": "The Magician",
+    "Detail": "",
+    "Value": "1",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-magician-tarot-card.jpg"
+  },
+  {
+    "Name": "The High Priestess",
+    "Detail": "",
+    "Value": "2",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-high-priestess-tarot-card.jpg"
+  },
+  {
+    "Name": "The Empress",
+    "Detail": "",
+    "Value": "3",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-empress-tarot-card.jpg"
+  },
+  {
+    "Name": "The Emperor",
+    "Detail": "",
+    "Value": "4",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-emperor-tarot-card.jpg"
+  },
+  {
+    "Name": "The Hierophant",
+    "Detail": "",
+    "Value": "5",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-hierophant-tarot-card.jpg"
+  },
+  {
+    "Name": "The Lovers",
+    "Detail": "",
+    "Value": "6",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-lovers-tarot-card.jpg"
+  },
+  {
+    "Name": "The Chariot",
+    "Detail": "",
+    "Value": "7",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-chariot-tarot-card.jpg"
+  },
+  {
+    "Name": "Strength",
+    "Detail": "",
+    "Value": "8",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-strength-tarot-card.jpg"
+  },
+  {
+    "Name": "The Hermit",
+    "Detail": "",
+    "Value": "9",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-hermit-tarot-card.jpg"
+  },
+  {
+    "Name": "Wheel of Fortune",
+    "Detail": "",
+    "Value": "10",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/wheel-of-fortune-tarot-card.jpg"
+  },
+  {
+    "Name": "Justice",
+    "Detail": "",
+    "Value": "11",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-justice-tarot-card.jpg"
+  },
+  {
+    "Name": "The Hanged Man",
+    "Detail": "",
+    "Value": "12",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-hanged-man-tarot-card.jpg"
+  },
+  {
+    "Name": "Death",
+    "Detail": "",
+    "Value": "13",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/death-tarot-card.jpg"
+  },
+  {
+    "Name": "Temperance",
+    "Detail": "",
+    "Value": "14",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/temperance-tarot-card.jpg"
+  },
+  {
+    "Name": "Devil",
+    "Detail": "",
+    "Value": "15",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/devil-tarot-card.jpg"
+  },
+  {
+    "Name": "The Tower",
+    "Detail": "",
+    "Value": "16",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-tower-tarot-card.jpg"
+  },
+  {
+    "Name": "The Star",
+    "Detail": "",
+    "Value": "17",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-star-tarot-card.jpg"
+  },
+  {
+    "Name": "The Moon",
+    "Detail": "",
+    "Value": "18",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-moon-tarot-card.jpg"
+  },
+  {
+    "Name": "The Sun",
+    "Detail": "",
+    "Value": "19",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-sun-tarot-card.jpg"
+  },
+  {
+    "Name": "Judgement",
+    "Detail": "",
+    "Value": "20",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-judement-tarot-card.jpg"
+  },
+  {
+    "Name": "The World",
+    "Detail": "",
+    "Value": "21",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/the-world-tarot-card.jpg"
+  },
+  {
+    "Name": "Ace of Cups",
+    "Detail": "",
+    "Value": "1",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/TarotCupSuit.jpg"
+  }
+  {
+    "Name": "Ace of Swords",
+    "Detail": "",
+    "Value": "1",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/TarotSwordSuit.jpg"
+  }
+  {
+    "Name": "Ace of Penticals",
+    "Detail": "",
+    "Value": "1",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/TarotPentSuit.jpg"
+  }
+  {
+    "Name": "Ace of Wands",
+    "Detail": "",
+    "Value": "1",
+    "Image": "https://github.com/ghoulai/TarotCardDeck/blob/48074d202f38f37e986320b54fa0e71868faab6d/TarotWandSuit.jpg"
+  }
+]
